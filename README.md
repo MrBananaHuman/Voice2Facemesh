@@ -8,6 +8,9 @@ https://user-images.githubusercontent.com/34882690/183585022-a78d6152-2687-4266-
 ## Dataset
 
 ## Inference
+```python
+>>> sh test.sh
+```
 
 ## Training
 
