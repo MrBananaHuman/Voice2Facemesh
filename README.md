@@ -19,14 +19,14 @@ https://user-images.githubusercontent.com/34882690/183585022-a78d6152-2687-4266-
 >>> sh test.sh
 ```
 ```
-inference options
+* inference options
 --checkpoint_path: 모델 path
 --init_face_path: txt로 추출한 init_face의 facemesh 좌표
 --audio_path: 오디오 파일
 --output_path: frame별로 생성된 facemesh 좌표
 --text: tts 생성을 위한 입력 (미입력시 오디오 path 활용)
 
-visualizing options
+* visualizing options
 --init_face_path: txt로 추출한 init_face의 facemesh 좌표
 --frame_path: frame별로 생성된 facemesh 좌표
 --audio_path: 오디오 파일
