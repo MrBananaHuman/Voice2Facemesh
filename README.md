@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/34882690/183585022-a78d6152-2687-4266-
 --output_video_name: 최종 비디오 출력
 ```
     
-## 5. License
+## 4. License
 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 상업적 이용의 경우 bananaband657@gmail.com으로 문의 바랍니다.
