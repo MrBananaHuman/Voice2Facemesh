@@ -1,6 +1,6 @@
-mediapipe=0.8.10
+mediapipe==0.8.10
 pytorch>=1.7.0
 matplotlib
-moviepy=1.0.3
+moviepy==1.0.3
 opencv-python
 gtts
