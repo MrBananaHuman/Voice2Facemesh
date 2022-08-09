@@ -33,10 +33,6 @@ https://user-images.githubusercontent.com/34882690/183585022-a78d6152-2687-4266-
 --output_image_path: frame별로 생성된 이미지 파일
 --output_video_name: 최종 비디오 출력
 ```
-
-## 4. Training
-데이터셋에서 FaceMesh와 음성을 추출하여 학습    
-음성 -> Mel spectrogram -> CNN -> Transformer Encoder -> FaceMesh    
     
 ## 5. License
 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
