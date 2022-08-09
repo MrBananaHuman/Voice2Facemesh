@@ -9,12 +9,12 @@ https://user-images.githubusercontent.com/34882690/183585022-a78d6152-2687-4266-
 [HTDF](https://github.com/MRzzm/HDTF)
 
 ## Inference
-1. init_face 생성
-![image](https://user-images.githubusercontent.com/34882690/183590580-c26797dd-cf0a-4fcf-b66f-d285b360873c.png)
+1. init_face 생성    
+![image](https://user-images.githubusercontent.com/34882690/183590580-c26797dd-cf0a-4fcf-b66f-d285b360873c.png)    
 ```python
 >>> python3 get_init_face.py
 ```
-2. facemesh 생성 & 비디오 생성
+2. facemesh 생성 & 비디오 생성    
 ```python
 >>> sh test.sh
 ```
